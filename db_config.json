@@ -1,0 +1,15 @@
+{
+    "mysql": {
+        "server": "tcp:192.168.186.128",
+        "database": "EduManTest",
+        "username": "sa",
+        "password": "vuong2428"
+    },
+    "postgres": {
+        "database": "dkmh", 
+        "username": "postgres", 
+        "password": "hgvuong", 
+        "host": "localhost", 
+        "port": 5432
+    }
+}
